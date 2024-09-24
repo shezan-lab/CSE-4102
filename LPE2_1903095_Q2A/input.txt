@@ -1,0 +1,3 @@
+DEF X IS INT = IN();
+DEF Y IS INT = IN() - X + 2;
+OUT(X+Y);
